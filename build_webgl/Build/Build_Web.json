@@ -1,0 +1,12 @@
+{
+"companyName": "Damian Diaz",
+"productName": "2DRoguelike",
+"dataUrl": "Build_Web.data.unityweb",
+"wasmCodeUrl": "Build_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build_Web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
