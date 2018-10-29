@@ -4,7 +4,7 @@
 Enter the dungeon with this easy to use and modify 2d roguelike asset.
 Check it out ! https://www.youtube.com/watch?v=LD0Im3E8vQk&t=8s
 
-To run in browser go to /build_webgl/index.html
+To play demo: https://damiandiaz212.github.io/roguelike/build_webgl/index.html
 
 # New Features!
 
